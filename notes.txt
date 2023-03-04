@@ -1,0 +1,19 @@
+Grupi B,
+Krijimi i nje app qe duhet te permbaje keto gjera:
+
+B
+Patient registartion app
+
+2 tabela i ka
+nje tabel pacienti
+nje tabel doktorri
+
+tabela pacienti duhet me pas emrin mbiemri nje fushe, daten e lindjes, numri i telefonit edhe tipi i visites, p.sh tipi i visites duhet me kon dropdown menu ta marrim shembull visitor new pacient etj
+
+kurse tabela e doktorrit duhet me kon, emri doktorrit, fusha e tij (kardiolog etj) etj, duhet me u lidh mes vete me pacienta
+
+appi duhete me kon crud capable
+
+
+how can i create a python app that has a database with 2 tables, table 1 named patient which has the fields, name, birthday, phoneNumber, and visitType
+the second table names doctor, name, typeOfDoctor, and these tables need to be connected with each other, also the app needs to be crud capable
